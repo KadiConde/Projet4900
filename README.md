@@ -69,7 +69,7 @@ Scripts principaux :
 3. Cloner le dépôt GitHub :
 
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/KadiConde/Projet4900.git
    ```
 4. Ouvrir Unity Hub → *Open Project* → sélectionner le dossier du projet
 
